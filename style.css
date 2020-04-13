@@ -111,7 +111,7 @@ font-size: .8rem;
 background-color: #252627;
 width: 200vw;
 padding-left: 20px;
-padding-right: 20px;
+padding-right: -20px;
 }
 
 .img-container {
