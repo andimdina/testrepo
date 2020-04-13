@@ -122,8 +122,8 @@ height: auto;
 }
 .main-pic .img-box {
 opacity: 1;
-  display: block;
-  position: sticky;
+display: block;
+position: sticky;
 }
 .main-pic .img-box img {
 filter: grayscale(1);
