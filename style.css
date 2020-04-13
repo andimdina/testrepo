@@ -110,8 +110,6 @@ font-size: .8rem;
 #img-section {
 background-color: #252627;
 width: 200vw;
-padding-left: 20px;
-padding-right: -20px;
 }
 
 .img-container {
@@ -119,8 +117,7 @@ width: 100vw;
 
 }
 .main-pic {
-
-width: 25vw;
+width: 20vw;
 height: auto;
 }
 .main-pic .img-box {
