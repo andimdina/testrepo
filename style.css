@@ -111,7 +111,7 @@ font-size: .8rem;
 background-color: #252627;
 }
 .img-container {
-width:  calc(100vh -10px);
+width:  calc(100vh - 50px);
 }
 
 }
