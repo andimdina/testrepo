@@ -106,7 +106,12 @@ font-size: .8rem;
 
 
 
-/*-----last section --------*/
+/*-----image section--------*/
+#img-section {
+background-color: #252627;
+width: 200vw;
+}
+
 .img-container {
 width: 100vw;
 
