@@ -112,6 +112,7 @@ background-color: #252627;
 }
 .img-container {
 width: calc(100vw - 60px);
+padding-bottom: 30px;
 }
 
 }
