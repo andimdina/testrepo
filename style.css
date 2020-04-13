@@ -111,8 +111,10 @@ font-size: .8rem;
 background-color: #252627;
 width: 100vw;
 }
-
 .img-container {
+width: 100vw;
+}
+.row {
 width: 100vw;
 
 }
