@@ -121,6 +121,7 @@ width: 25vw;
 height: auto;
 }
 .main-pic .img-box {
+width: 25vw;
 opacity: 1;
 display: block;
 position: sticky;
