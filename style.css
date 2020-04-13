@@ -107,8 +107,13 @@ font-size: .8rem;
 
 
 /*-----last section --------*/
+.container {
+grid-row-gap: 10px;
+}
 .main-pic {
 margin-top: 10px;
+width: 25vw;
+heightL auto;
 }
 .main-pic .img-box {
 opacity: 1;
