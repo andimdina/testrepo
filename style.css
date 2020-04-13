@@ -110,8 +110,7 @@ font-size: .8rem;
 #img-section {
 background-color: #252627;
 width: 100vw;
-padding-left: 10vw;
-padding-right: -10vw;
+padding: 10vw;
 }
 
 .img-container {
