@@ -43,7 +43,7 @@ text-align:left;
 color: #5486ac!important;
 }
 .navbar {
-background: #6ba7e3;
+background: #deb887;
 }
 .navbar-toggler {
 border: none!important;
@@ -57,7 +57,7 @@ font-size: 16px;
 
 /*----------Main section--------*/
 #main-section {
-background-color: #252627;
+background-color: #deb887;
 }
 .main-info-section {
 height: calc(100vh -50px);
