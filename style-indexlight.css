@@ -128,6 +128,8 @@ display: block;
 position: sticky;
 }
 .main-pic .img-box img {
+margin-left: 10px;
+margin-right: 10px;
 filter: opacity(.5);
 }
 .main-pic .img-box img:hover {
