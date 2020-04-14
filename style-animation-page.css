@@ -195,11 +195,11 @@ padding-bottom: 30px;
 
 }
 .main-pic {
-width: 50vw;
+width: 100vw;
 height: auto;
 }
 .main-pic .img-box {
-width: 25vw;
+width: 100vw;
 opacity: 1;
 display: block;
 position: sticky;
