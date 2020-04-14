@@ -128,9 +128,9 @@ display: block;
 position: sticky;
 }
 .main-pic .img-box img {
-filter: opacity(.8);
+filter: opacity(.5);
 }
 .main-pic .img-box img:hover {
-filter: opacity(0);
+filter: opacity(1);
 cursor: pointer;
 }
