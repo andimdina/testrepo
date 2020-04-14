@@ -58,7 +58,7 @@ font-size: 16px;
 
 /*----------Main section--------*/
 #main-section {
-background-color: #984D63;
+background-color: #FE9677
 }
 .main-info-section {
 height: calc(100vh -50px);
@@ -109,7 +109,7 @@ font-size: .8rem;
 
 /*-----image section--------*/
 #img-section {
-background-color: #984D63;
+background-color: #FE9677;
 }
 .img-container {
 width: calc(100vw - 60px);
