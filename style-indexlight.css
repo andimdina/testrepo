@@ -75,7 +75,7 @@ font-size: 16px;
 
 
 .css-typing p:nth-child(2) {
-  width: 15em;
+  width: 12em;
   opacity: 0;
   -webkit-animation: type2 4s steps(20, end), blink .5s step-end infinite alternate;
   animation: type2 5s steps(20, end), blink .5s step-end infinite alternate;
