@@ -6,6 +6,7 @@ padding:0;
 html {
 scroll-behavior:smooth;
 }
+
 .container {
 padding: 0 100px 0 100px;
 }
@@ -127,9 +128,9 @@ display: block;
 position: sticky;
 }
 .main-pic .img-box img {
-filter: grayscale(1);
+filter: sepia(1);
 }
 .main-pic .img-box img:hover {
-filter: grayscale(0);
+filter: sepia(0);
 cursor: pointer;
 }
