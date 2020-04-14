@@ -120,11 +120,11 @@ padding-bottom: 30px;
 .main-pic {
 margin-left: 10px;
 margin-right: 10px;
-width: 25vw;
+width: 20vw;
 height: auto;
 }
 .main-pic .img-box {
-width: 25vw;
+width: 20vw;
 opacity: 1;
 display: block;
 position: sticky;
