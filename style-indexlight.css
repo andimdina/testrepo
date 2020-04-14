@@ -116,8 +116,10 @@ width: calc(100vw - 60px);
 padding-bottom: 30px;
 }
 
-}
+
 .main-pic {
+margin-left: 10px;
+margin-right: 10px;
 width: 25vw;
 height: auto;
 }
