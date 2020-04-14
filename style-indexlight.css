@@ -23,7 +23,7 @@ width: device-width;
 
 /*----------Navigation--------*/
 #nav-bar {
-background-color: #F78888;
+background-color: #252627;
 position: sticky;
 top:0;
 z-index:10;
@@ -43,7 +43,7 @@ text-align:left;
 color: #5486ac!important;
 }
 .navbar {
-background: #deb887;
+background: #6ba7e3;
 }
 .navbar-toggler {
 border: none!important;
@@ -55,11 +55,9 @@ font-weight: 600;
 font-size: 16px;
 }
 
-
-
 /*----------Main section--------*/
 #main-section {
-background-color: #41436A;
+background-color: #252627;
 }
 .main-info-section {
 height: calc(100vh -50px);
@@ -105,53 +103,23 @@ font-size: .8rem;
 }
 
 
-/*----Type writing Section-------*/
-/* Google Fonts */
-@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
-
-/* Global */
-html{
-  min-height: 100%;
-  overflow: hidden;
-}
-body{
-  height: calc(100vh - 8em);
-  padding: 4em;
-  color: rgba(255,255,255,.75);
-  font-family: 'Anonymous Pro', monospace;
-  background-color: rgb(25,25,25);
-}
-.line-1{
-    position: relative;
-    top: 50%;
-    width: 24em;
-    margin: 0 auto;
-    border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 180%;
-    text-align: center;
-    white-space: nowrap;
-    overflow: hidden;
-    transform: translateY(-50%);
-}
 
 
 
 /*-----image section--------*/
 #img-section {
-background-color: #41436A;
+background-color: #252627;
 }
-
 .img-container {
 width: calc(100vw - 60px);
 padding-bottom: 30px;
 }
 
-
+}
 .main-pic {
 width: 25vw;
 height: auto;
 }
-
 .main-pic .img-box {
 width: 25vw;
 opacity: 1;
@@ -159,9 +127,9 @@ display: block;
 position: sticky;
 }
 .main-pic .img-box img {
-filter: opacity(.5);
+filter: grayscale(1);
 }
 .main-pic .img-box img:hover {
-filter: opacity(1);
+filter: grayscale(0);
 cursor: pointer;
 }
