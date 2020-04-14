@@ -57,10 +57,14 @@ font-size: 16px;
 
 
 /*---Animation---*/
+#typewriter-section {
+  background color: #000000;
+}
+
 .css-typing p {
-  border-right: .15em solid orange;
+  border-right: .15em solid white;
   font-family: "Courier";
-  font-size: 14px;
+  font-size: 24px;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -90,7 +94,7 @@ font-size: 16px;
     width: 0;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .15em solid white;
   }
   100% {
     border: none;
@@ -102,7 +106,7 @@ font-size: 16px;
     width: 0;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .15em solid white;
   }
   100% {
     border: none;
@@ -117,7 +121,7 @@ font-size: 16px;
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .15em solid white;
   }
   100% {
     opacity: 1;
@@ -133,7 +137,7 @@ font-size: 16px;
     opacity: 1;
   }
   99.9% {
-    border-right: .15em solid orange;
+    border-right: .15em solid white;
   }
   100% {
     opacity: 1;
