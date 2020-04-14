@@ -58,7 +58,7 @@ font-size: 16px;
 
 /*----------Main section--------*/
 #main-section {
-background-color: #FE9677
+background-color: #41436A;
 }
 .main-info-section {
 height: calc(100vh -50px);
@@ -109,8 +109,9 @@ font-size: .8rem;
 
 /*-----image section--------*/
 #img-section {
-background-color: #FE9677;
+background-color: #41436A;
 }
+
 .img-container {
 width: calc(100vw - 60px);
 padding-bottom: 30px;
@@ -118,20 +119,17 @@ padding-bottom: 30px;
 
 
 .main-pic {
-margin-left: 10px;
-margin-right: 10px;
-width: 20vw;
+width: 25vw;
 height: auto;
 }
+
 .main-pic .img-box {
-width: 20vw;
+width: 25vw;
 opacity: 1;
 display: block;
 position: sticky;
 }
 .main-pic .img-box img {
-margin-left: 10px;
-margin-right: 10px;
 filter: opacity(.5);
 }
 .main-pic .img-box img:hover {
