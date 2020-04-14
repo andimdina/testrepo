@@ -178,11 +178,16 @@ font-size: 16px;
 
 
 
+/*---main section----*/
 
-/*-----image section--------*/
-#img-section {
-background-color: #252627;
+
+
+#main-section {
+background-color: #000000;
 }
+
+
+
 .img-container {
 width: calc(100vw - 60px);
 padding-bottom: 30px;
@@ -190,7 +195,7 @@ padding-bottom: 30px;
 
 }
 .main-pic {
-width: 25vw;
+width: 50vw;
 height: auto;
 }
 .main-pic .img-box {
