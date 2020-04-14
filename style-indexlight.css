@@ -128,9 +128,9 @@ display: block;
 position: sticky;
 }
 .main-pic .img-box img {
-filter: invert(.8);
+filter: opacity(.8);
 }
 .main-pic .img-box img:hover {
-filter: invert(0);
+filter: opacity(0);
 cursor: pointer;
 }
